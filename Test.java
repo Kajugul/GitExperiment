@@ -6,5 +6,7 @@ public class Test
     {
         // adding comment from git.
 
+        // adding comment from intellij
+
     }
 }
