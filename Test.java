@@ -6,7 +6,7 @@ public class Test
     {
         for (int i = 0; i < 4; i++)
         {
-
+        // comment added from git.com
         }
     }
 }
