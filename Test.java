@@ -4,9 +4,9 @@ public class Test
 
     public static void main(String[] s)
     {
-        // adding comment from git.
+        for (int i = 0; i < 4; i++)
+        {
 
-        // adding comment from intellij
-
+        }
     }
 }
