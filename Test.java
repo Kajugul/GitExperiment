@@ -4,13 +4,9 @@ public class Test
 
     public static void main(String[] s)
     {
-        for (int i = 0; i < 4; i++)
-        {
-        // comment added from git.com
-        }
-        else
-        {
-            System.out.println("=====================");
-        }
+//       while loop added
+        boolean flag = true;
+
+        System.out.println(flag);
     }
 }
