@@ -8,10 +8,6 @@ public class Test
         {
             System.out.println("switched to master branch...");
         }
-        else if (float)
-        {
-            System.out.println("else condition");
-        }
         else
         {
             System.out.println("dsdfgghgfdfghfdf");
