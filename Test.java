@@ -8,5 +8,9 @@ public class Test
         {
             System.out.println("switched to master branch...");
         }
+        else
+        {
+            System.out.println("else condition");
+        }
     }
 }
