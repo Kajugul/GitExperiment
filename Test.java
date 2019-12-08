@@ -12,5 +12,7 @@ public class Test
         System.out.println(false);
 
         System.out.println(flag);
+
+        System.out.println("Test.java");
     }
 }
