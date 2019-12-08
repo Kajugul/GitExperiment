@@ -8,5 +8,9 @@ public class Test
         boolean flag = true;
 
         System.out.println(flag);
+
+        System.out.println(false);
+
+        System.out.println(flag);
     }
 }
